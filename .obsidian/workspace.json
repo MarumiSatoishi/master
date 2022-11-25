@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "修論本体.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "修論本体.md"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "修論本体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,8 +153,9 @@
     "width": 327.5,
     "collapsed": true
   },
-  "active": "ad50963d83b3fb13",
+  "active": "a606529a1f72980b",
   "lastOpenFiles": [
+    "README.md",
     "memo.md",
     "修論本体.md",
     "Weinberg 2016.md",
@@ -164,7 +164,6 @@
     "人間.md",
     "プレゼンFB.md",
     "規準.md",
-    "訳語.md",
-    "joining.md"
+    "訳語.md"
   ]
 }
