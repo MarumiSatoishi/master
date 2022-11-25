@@ -1,0 +1,1 @@
+←→[[direct theory of perception]]
