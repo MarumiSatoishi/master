@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ad50963d83b3fb13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -155,15 +142,15 @@
   },
   "active": "a606529a1f72980b",
   "lastOpenFiles": [
+    "意識.md",
+    "修論本体.md",
+    "人間本性の説明.md",
+    "イギリス経験論.md",
     "README.md",
     "memo.md",
-    "修論本体.md",
     "Weinberg 2016.md",
     "take notice of --example.md",
     "知識.md",
-    "人間.md",
-    "プレゼンFB.md",
-    "規準.md",
-    "訳語.md"
+    "人間.md"
   ]
 }
