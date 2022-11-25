@@ -19,6 +19,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd53bbea290ec409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "教育実習まとめの会.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "67853174277dcc7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e7b130b41d202b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "修論本体.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -88,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "修論本体.md",
+                "file": "教育実習まとめの会.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "修論本体.md"
+                "file": "教育実習まとめの会.md"
               }
             }
           },
@@ -121,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "修論本体.md",
+                "file": "教育実習まとめの会.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +173,17 @@
     "width": 327.5,
     "collapsed": true
   },
-  "active": "a606529a1f72980b",
+  "active": "dd53bbea290ec409",
   "lastOpenFiles": [
-    "意識.md",
     "修論本体.md",
+    "教育実習まとめの会.md",
+    "Weinberg 2021.md",
+    "Weinberg 2008.md",
+    "Weinberg 2016.md",
+    "意識.md",
     "人間本性の説明.md",
     "イギリス経験論.md",
     "README.md",
-    "memo.md",
-    "Weinberg 2016.md",
-    "take notice of --example.md",
-    "知識.md",
-    "人間.md"
+    "memo.md"
   ]
 }
