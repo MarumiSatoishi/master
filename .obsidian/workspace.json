@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd53bbea290ec409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "教育実習まとめの会.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "67853174277dcc7a",
@@ -121,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "教育実習まとめの会.md",
+                "file": "修論本体.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "教育実習まとめの会.md"
+                "file": "修論本体.md"
               }
             }
           },
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "教育実習まとめの会.md",
+                "file": "修論本体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +159,10 @@
     "width": 327.5,
     "collapsed": true
   },
-  "active": "dd53bbea290ec409",
+  "active": "a606529a1f72980b",
   "lastOpenFiles": [
-    "修論本体.md",
     "教育実習まとめの会.md",
+    "修論本体.md",
     "Weinberg 2021.md",
     "Weinberg 2008.md",
     "Weinberg 2016.md",
