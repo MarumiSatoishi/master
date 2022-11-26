@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d87c32450b3a1db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "修論タスクリスト.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -142,15 +155,15 @@
   },
   "active": "a606529a1f72980b",
   "lastOpenFiles": [
-    "米5.md",
+    "修論タスクリスト.md",
     "修論本体.md",
+    "信念の倫理.md",
+    "Wolterstorff 1996.md",
+    "Passmore 1978.md",
+    "米5.md",
     "Weinberg 2021.md",
     "教育実習まとめの会.md",
     "Weinberg 2008.md",
-    "Weinberg 2016.md",
-    "意識.md",
-    "人間本性の説明.md",
-    "イギリス経験論.md",
-    "README.md"
+    "Weinberg 2016.md"
   ]
 }

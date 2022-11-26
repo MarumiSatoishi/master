@@ -1,0 +1,1 @@
+Passmore, John (1978). ‘Locke and the Ethics of Belief’. in Proceedings of the British Academy 64 (1978): 185–208. (Reprinted in Locke: Oxford Readings in Philosophy, ed. Chappell, V., 279–99. Oxford: Oxford University Press, 1998).
