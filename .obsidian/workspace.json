@@ -21,25 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "67853174277dcc7a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2e7b130b41d202b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "修論本体.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -161,15 +142,15 @@
   },
   "active": "a606529a1f72980b",
   "lastOpenFiles": [
-    "教育実習まとめの会.md",
+    "米5.md",
     "修論本体.md",
     "Weinberg 2021.md",
+    "教育実習まとめの会.md",
     "Weinberg 2008.md",
     "Weinberg 2016.md",
     "意識.md",
     "人間本性の説明.md",
     "イギリス経験論.md",
-    "README.md",
-    "memo.md"
+    "README.md"
   ]
 }

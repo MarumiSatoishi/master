@@ -1,4 +1,4 @@
-
+Weinberg, Shelley (2021). "Locke on Consciousness and Reflection", in eds. Gorden-Roth, J. and Weinberg, S. The Lockean Mind, Routledge, Abington.
 
 ## 1. 意識の4つの解釈戦略
 
