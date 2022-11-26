@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "3d87c32450b3a1db",
+            "id": "7ca5baa193fd1445",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,20 +149,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "active": "a606529a1f72980b",
   "lastOpenFiles": [
     "修論タスクリスト.md",
     "修論本体.md",
+    "恋愛メモ221126.md",
+    "まるみ.md",
+    "ひとみ.md",
     "信念の倫理.md",
     "Wolterstorff 1996.md",
     "Passmore 1978.md",
     "米5.md",
-    "Weinberg 2021.md",
-    "教育実習まとめの会.md",
-    "Weinberg 2008.md",
-    "Weinberg 2016.md"
+    "Weinberg 2021.md"
   ]
 }
