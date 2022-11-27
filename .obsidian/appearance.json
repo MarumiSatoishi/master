@@ -1,5 +1,6 @@
 {
-  "accentColor": "",
-  "theme": "system",
-  "baseFontSize": 15
+  "accentColor": "#6bb6ef",
+  "theme": "moonstone",
+  "baseFontSize": 15,
+  "baseFontSizeAction": false
 }

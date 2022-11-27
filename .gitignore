@@ -1,0 +1,5 @@
+# .gitignore
+
+/figures_etc
+/.obsidian/
+/.trash/
