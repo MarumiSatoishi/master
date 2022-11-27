@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "64b18305d8ea1347",
+            "id": "bc700d8bee1f624a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,13 +93,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "020cb74aff26f9ef",
@@ -166,17 +164,17 @@
     "direction": "horizontal",
     "width": 389.5
   },
-  "active": "64b18305d8ea1347",
+  "active": "bc700d8bee1f624a",
   "lastOpenFiles": [
+    "[ターミナル.md",
     "git管理メモ.md",
+    "コミットログ.md",
+    "ターミナル.md",
+    "Pasted image 20221127102409.png.md",
     "修論タスクリスト.md",
     "修論本体.md",
     "自然法.md",
     "自然法をただ知っているだけではだめだというのは、一体なんの話だったっけ.md",
-    "『導き方』.md",
-    "修論アウトライン.md",
-    "自然法とその認識論、そして、人間知性の実践的目的のふたつの点において密接に結びついている.md",
-    "行為論的規範.md",
-    "ネタ.md"
+    "『導き方』.md"
   ]
 }
