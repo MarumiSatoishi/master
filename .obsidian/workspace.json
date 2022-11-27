@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "立場.md",
+                "file": "意志を突き通す相手に対して抱く容認と軋轢について.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "立場.md",
+                "file": "修論本体.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "立場.md"
+                "file": "修論本体.md"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "立場.md",
+                "file": "修論本体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,10 +150,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
-  "active": "03b465789338d6a5",
+  "active": "1291f529e5fb8147",
   "lastOpenFiles": [
+    "意志を突き通す相手に対して抱く容認と軋轢について.md",
     "修論本体.md",
     "人格の議論と倫理の繋がり.md",
     "人格.md",
@@ -163,7 +164,6 @@
     "行為論.md",
     "非道徳的規範.md",
     "現前について言いたいこと.md",
-    "修論執筆のガイドライン.md",
-    "現前領域.md"
+    "修論執筆のガイドライン.md"
   ]
 }
