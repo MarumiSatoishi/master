@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e78f56df72939679",
+        "id": "f9a6bcc3015757a6",
         "type": "tabs",
         "children": [
           {
-            "id": "1291f529e5fb8147",
+            "id": "14759cf006b31059",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "03b465789338d6a5",
+            "id": "f885abdb80b936cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "意志を突き通す相手に対して抱く容認と軋轢について.md",
+                "file": "テスト.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "知識",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,20 +150,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 284.5
   },
-  "active": "1291f529e5fb8147",
+  "active": "14759cf006b31059",
   "lastOpenFiles": [
-    "意志を突き通す相手に対して抱く容認と軋轢について.md",
-    "修論本体.md",
     "人格の議論と倫理の繋がり.md",
-    "人格.md",
-    "修論タスクリスト.md",
-    "非道徳的規範で行為論に属するものを考える.md",
-    "行為論.md",
-    "非道徳的規範.md",
-    "現前について言いたいこと.md",
-    "修論執筆のガイドライン.md"
+    "修論本体.md",
+    "意識に現象しているもので規範を完結する意味.md",
+    "テスト.md",
+    "行使.md",
+    "excert.md",
+    "宙吊り.md",
+    "suspension.md",
+    "uneasiness.md",
+    "意志決定.md"
   ]
 }
