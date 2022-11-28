@@ -1,6 +1,0 @@
-PWD /Users/bayashihi/Documents/master
-INPUT /usr/local/texlive/2022/texmf.cnf
-INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/latex.fmt
-INPUT master.tex
-OUTPUT master.log

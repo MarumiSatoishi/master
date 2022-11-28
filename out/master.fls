@@ -4,8 +4,8 @@ INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/eptex/platex.fmt
-INPUT bachelor.tex
-OUTPUT bachelor.log
+INPUT /Users/bayashihi/Documents/master/master.tex
+OUTPUT out/master.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/nag/nag.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/nag/nag.sty
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/nag/nag.sty
@@ -132,10 +132,10 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT ./bachelor.aux
-INPUT bachelor.aux
-INPUT bachelor.aux
-OUTPUT bachelor.aux
+INPUT out/master.aux
+INPUT out/master.aux
+INPUT out/master.aux
+OUTPUT out/master.aux
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
@@ -150,7 +150,7 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
-OUTPUT bachelor.dvi
+OUTPUT out/master.dvi
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
@@ -160,12 +160,12 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmss17.tfm
-INPUT ./bachelor.toc
-INPUT bachelor.toc
-INPUT bachelor.toc
+INPUT out/master.toc
+INPUT out/master.toc
+INPUT out/master.toc
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
-OUTPUT bachelor.toc
+OUTPUT out/master.toc
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
@@ -189,4 +189,4 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
-INPUT bachelor.aux
+INPUT out/master.aux

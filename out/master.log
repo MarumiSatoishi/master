@@ -1,13 +1,12 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.euc) (TeX Live 2022) (preloaded format=platex 2022.11.28)  28 NOV 2022 16:33
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.euc) (TeX Live 2022) (preloaded format=platex 2022.11.28)  28 NOV 2022 17:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**bachelor.tex
-(./bachelor.tex
+**/Users/bayashihi/Documents/master/master.tex
+(/Users/bayashihi/Documents/master/master.tex
 pLaTeX2e <2021-11-15> (based on LaTeX2e <2021-11-15> patch level 1)
-L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex
-/nag/nag.sty
+L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/nag/nag.sty
 Package: nag 2011/11/25 0.7 warning about old commands (ulmi)
 \c@nag@c=\count184
 \c@nag@sins=\count185
@@ -93,8 +92,8 @@ File: l3backend-dvips.def 2022-02-07 L3 backend support: dvips
 \g__pdf_backend_annotation_int=\count199
 \g__pdf_backend_link_int=\count266
 \g__pdf_backend_link_sf_int=\count267
-) (./bachelor.aux)
-\openout1 = `bachelor.aux'.
+) (out/master.aux)
+\openout1 = `master.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
@@ -114,20 +113,13 @@ LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
-Package nag Info: Command \RaggedLeft not defined, skipping amendment on input 
-line 22.
-Package nag Info: Command \RaggedRight not defined, skipping amendment on input
- line 22.
-Package nag Info: Command \caption@xlabel not defined, skipping amendment on in
-put line 22.
-Package nag Info: Command \captionabove not defined, skipping amendment on inpu
-t line 22.
-Package nag Info: Command \captionbelow not defined, skipping amendment on inpu
-t line 22.
-Package nag Info: Command \hc@caption not defined, skipping amendment on input 
-line 22.
-Package nag Info: Command \topcaption not defined, skipping amendment on input 
-line 22.
+Package nag Info: Command \RaggedLeft not defined, skipping amendment on input line 22.
+Package nag Info: Command \RaggedRight not defined, skipping amendment on input line 22.
+Package nag Info: Command \caption@xlabel not defined, skipping amendment on input line 22.
+Package nag Info: Command \captionabove not defined, skipping amendment on input line 22.
+Package nag Info: Command \captionbelow not defined, skipping amendment on input line 22.
+Package nag Info: Command \hc@caption not defined, skipping amendment on input line 22.
+Package nag Info: Command \topcaption not defined, skipping amendment on input line 22.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 16.60605pt on input line 23.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
@@ -160,7 +152,7 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 23.90964pt on input line 24.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 23.90964pt on input line 24.
-(./bachelor.toc
+(out/master.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -171,7 +163,7 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 4.805pt on input line 4.
 )
 \tf@toc=\write3
-\openout3 = `bachelor.toc'.
+\openout3 = `master.toc'.
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 28.
@@ -252,19 +244,19 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4> not available
 
 ]
 No complaints by nag.
-[31] (./bachelor.aux)
+[31] (out/master.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 2211 strings out of 478724
- 35694 string characters out of 5858391
- 365331 words of memory out of 5000000
+ 2213 strings out of 478724
+ 35794 string characters out of 5858391
+ 365325 words of memory out of 5000000
  20672 multiletter control sequences out of 15000+600000
  484077 words of font info for 98 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 55i,10n,62p,2154b,347s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,10n,62p,2186b,347s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on bachelor.dvi (32 pages, 189656 bytes).
+Output written on out/master.dvi (32 pages, 189656 bytes).

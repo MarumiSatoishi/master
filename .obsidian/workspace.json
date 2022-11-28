@@ -4,30 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "f9a6bcc3015757a6",
+        "id": "a03d5e570b5e08ba",
         "type": "tabs",
         "children": [
           {
-            "id": "ef0b91ad4aefaa4d",
+            "id": "888d30c18ec6cbb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論1.1.md",
-                "mode": "preview",
+                "file": "修論本体.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "0deb62db5cefb86a",
+            "id": "02b1f677edcf03de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論本体.md",
-                "mode": "preview",
+                "file": "修論1.2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b5ce3f814307cb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uzgalis 2022.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b23cfff705b654c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ae0391620eb2fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weinberg 2021.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -62,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "反省 定義",
+                "query": "faculty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "修論1.1.md",
+                "file": "修論1.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "修論1.1.md"
+                "file": "修論1.2.md"
               }
             }
           },
@@ -134,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "修論1.1.md",
+                "file": "修論1.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,19 +183,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
-  "active": "ef0b91ad4aefaa4d",
+  "active": "02b1f677edcf03de",
   "lastOpenFiles": [
     "修論本体.md",
-    "修論1.1.md",
-    "E2.1.4.md",
-    "観察.md",
-    "observe.md",
-    "米7.md",
-    "米8.md",
-    "知性.md",
-    "understanding.md",
-    "反省の定義(2.1.4).md"
+    "修論1.2.md",
+    "Uzgalis 2022.md",
+    "意識の現前領域説.md",
+    "Thiel 2011.md",
+    "Weinberg 2021.md",
+    "アントニア・ローロルド.md",
+    "実体と能力と力.md",
+    "ネタ.md",
+    "能力.md"
   ]
 }
