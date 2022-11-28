@@ -8,26 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14759cf006b31059",
+            "id": "ef0b91ad4aefaa4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論本体.md",
-                "mode": "source",
+                "file": "修論1.1.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "440d83b49d787338",
+            "id": "0deb62db5cefb86a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論タスクリスト.md",
-                "mode": "source",
+                "file": "修論本体.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -62,10 +62,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#タスク",
+                "query": "反省 定義",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "修論本体.md",
+                "file": "修論1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "修論本体.md"
+                "file": "修論1.1.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "修論本体.md",
+                "file": "修論1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,24 +146,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
-  "active": "14759cf006b31059",
+  "active": "ef0b91ad4aefaa4d",
   "lastOpenFiles": [
-    "修論タスクリスト.md",
-    "テスト.md",
     "修論本体.md",
-    "人格同一性論.md",
-    "それを構成する存在、社会的動物 social animal としての人間の本性の探求へと導いた。.md",
-    "[ロックの自我概念を、自らの他のすべての箇所に影響を与えられる「点的」な自我であると考えたが.md",
-    "Newman 2007.md",
-    "Newman 2004.md",
-    "注目・意識・記憶・人格同一性.md",
-    "cleardistinct.md"
+    "修論1.1.md",
+    "E2.1.4.md",
+    "観察.md",
+    "observe.md",
+    "米7.md",
+    "米8.md",
+    "知性.md",
+    "understanding.md",
+    "反省の定義(2.1.4).md"
   ]
 }
