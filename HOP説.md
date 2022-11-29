@@ -1,0 +1,1 @@
+[[高階知覚説]]、すなわち [[higher-order perception theory]]

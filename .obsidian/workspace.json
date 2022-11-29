@@ -34,7 +34,33 @@
             }
           },
           {
-            "id": "1b5ce3f814307cb6",
+            "id": "9fe2750f9861db6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thiel 2011.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e5326aaa8d1afc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lycan 1997.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5610a696d0c7b80d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,21 +71,34 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b23cfff705b654c3",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "5ae0391620eb2fec",
+            "id": "fa135e61c3f04325",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weinberg 2021.md",
+                "file": "Gordon-Roth 2019.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "82299bfc24549d93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d72526ee38b80442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boeker 2021.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "修論1.2.md",
+                "file": "Gordon-Roth 2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "修論1.2.md"
+                "file": "Gordon-Roth 2019.md"
               }
             }
           },
@@ -167,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "修論1.2.md",
+                "file": "Gordon-Roth 2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,17 +225,17 @@
     "width": 284.5,
     "collapsed": true
   },
-  "active": "02b1f677edcf03de",
+  "active": "fa135e61c3f04325",
   "lastOpenFiles": [
-    "修論本体.md",
+    "Boeker 2021.md",
     "修論1.2.md",
-    "Uzgalis 2022.md",
-    "意識の現前領域説.md",
+    "Gordon-Roth 2019.md",
+    "Lycan 1997.md",
     "Thiel 2011.md",
-    "Weinberg 2021.md",
-    "アントニア・ローロルド.md",
-    "実体と能力と力.md",
-    "ネタ.md",
-    "能力.md"
+    "修論本体.md",
+    "ライプニッツ.md",
+    "Uzgalis 2022.md",
+    "HOP.md",
+    "HOP説.md"
   ]
 }
