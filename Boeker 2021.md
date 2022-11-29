@@ -1,3 +1,16 @@
+[↗リンク](https://docs.google.com/spreadsheets/d/1fa9XZAyDceoyh15XutMDBDMSkI9IDJiJagoJKFNcFXo/edit#gid=1447749117)
+
+# 本文まとめ
+
+## 5 意識と同一の意識
+
+### 5.1 
+
+### 5.2 ロックの意識の同じさについて
+
+#### 5.2.2 [私のもの性と充当](https://docs.google.com/spreadsheets/d/1fa9XZAyDceoyh15XutMDBDMSkI9IDJiJagoJKFNcFXo/edit#gid=0&range=B139)
+
+全然だめ
 
 
 
@@ -6,6 +19,11 @@
 
 
 
+
+
+
+
+---
 
 1. Introduction
 	1.  Locke’s Innovative Approach to Debates about Persons and Personal Identity 

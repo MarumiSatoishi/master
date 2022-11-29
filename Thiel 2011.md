@@ -1,6 +1,13 @@
+Thiel, Udo (2011). The Early Modern Subject: Self-consciousness and personal identity from Descartes to Hume, Oxford: Oxford University Press. [リンク](https://docs.google.com/spreadsheets/d/1nP26_-aBoDeikdvg6bYC9qur2RNwfL_tNCYVS5gCxFo/edit#gid=0)
 
 
 
+
+
+
+- 意識は心のみずからに対する現前:[115](https://docs.google.com/spreadsheets/d/1nP26_-aBoDeikdvg6bYC9qur2RNwfL_tNCYVS5gCxFo/edit#gid=0&range=B179)
+	- これが[[意識の現前領域説]]とマッチする。
+- 同階知覚説 SOP Same-Order Perception:[116](https://docs.google.com/spreadsheets/d/1nP26_-aBoDeikdvg6bYC9qur2RNwfL_tNCYVS5gCxFo/edit#gid=0&range=B187)
 
 
 ロックは、「意識は思考と不可分であり、私には思考に不可欠であると思われる」と述べている。このように、私たちの現在の感覚と知覚については、常にそうである」。ロックにとって、意識的であることは、そのような思考作用のすべての行為に不可欠な部分である直接的な気づきを示す...ロックによれば、心は、それ自身の動作を観察し、それについての観念を生み出すという意味で、それ自身に関係するのである。つまり、意識は心の自分自身に対する存在であり、反省とは異なり、意識はHOPではない。意識がなければ、反省は反省する対象を持たないことになる。(ティール 2011: 114-115）。
