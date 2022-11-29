@@ -6,14 +6,48 @@
       {
         "id": "a03d5e570b5e08ba",
         "type": "tabs",
+        "dimension": 52.254831782390845,
         "children": [
           {
-            "id": "888d30c18ec6cbb0",
+            "id": "7e7d0eb535da569b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論本体.md",
+                "file": "修論1.2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "82299bfc24549d93",
+        "type": "tabs",
+        "dimension": 47.74516821760916,
+        "children": [
+          {
+            "id": "d72526ee38b80442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boeker 2021.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce8fff2d68070ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E2.1.19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論1.2.md",
+                "file": "E2.27.9.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,71 +68,12 @@
             }
           },
           {
-            "id": "9fe2750f9861db6f",
+            "id": "b51d2ae1f28fadb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thiel 2011.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e5326aaa8d1afc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lycan 1997.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5610a696d0c7b80d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uzgalis 2022.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa135e61c3f04325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gordon-Roth 2019.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "82299bfc24549d93",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d72526ee38b80442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boeker 2021.md",
+                "file": "Flew1951.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "faculty",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -173,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gordon-Roth 2019.md",
+                "file": "修論1.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gordon-Roth 2019.md"
+                "file": "修論1.2.md"
               }
             }
           },
@@ -206,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gordon-Roth 2019.md",
+                "file": "修論1.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,17 +200,17 @@
     "width": 284.5,
     "collapsed": true
   },
-  "active": "fa135e61c3f04325",
+  "active": "7e7d0eb535da569b",
   "lastOpenFiles": [
     "Boeker 2021.md",
     "修論1.2.md",
-    "Gordon-Roth 2019.md",
-    "Lycan 1997.md",
-    "Thiel 2011.md",
-    "修論本体.md",
-    "ライプニッツ.md",
-    "Uzgalis 2022.md",
-    "HOP.md",
-    "HOP説.md"
+    "E2.1.19.md",
+    "Flew1951.md",
+    "E1.4.20.md",
+    "米9.md",
+    "E2.9.1.md",
+    "1.4 思索的生得原理と実践的生得原理にかんする他の考察.md",
+    "記憶の特徴からの生得観念論批判(1.4.20).md",
+    "E2.27.9.md"
   ]
 }
