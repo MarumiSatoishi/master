@@ -1,0 +1,1 @@
+Walsh, Julie, 2014, “[Locke’s Ethics](http://www.iep.utm.edu/locke-et/),” in _Internet Encyclopedia of Philosophy_, James Fieser and Bradley Dowden (eds.).
