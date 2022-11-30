@@ -23,7 +23,7 @@ Weinberg, Shelley (2021). "Locke on Consciousness and Reflection", in eds. Gorde
 
 ### 1.2 意識と反省は同じ精神作用である
 
-　cf. [LoLordo 2012] は、意識は反省と同じ精神作用だという
+　cf. [[LoLordo 2012]]:116 は、意識は反省と同じ精神作用だという。[130](https://docs.google.com/spreadsheets/d/1dJWzUjVuSOVOyE6Q237hDJivYHyXiQGxOHezaCUmdjg/edit#gid=0&range=B29)
 　[LoLordoの反省]: むしろ、反省＝意識のうち、注意され保持されたもの consciousness that is attended and retained と考える
 　[意識＝二階の反省の無限背進問題]の回避：意識は、二階の精神状態だと考えていないから回避できる
  [常時反省 vs 幼子問題]の回避：[LoLordoの反省]概念より、「幼子は意識はするが反省はしない」のだと回避可能

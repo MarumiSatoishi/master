@@ -1,1 +1,1 @@
-[[高階知覚説]]、すなわち [[higher-order perception theory]]
+[[意識の高階知覚説]]、すなわち [[higher-order perception theory]]
