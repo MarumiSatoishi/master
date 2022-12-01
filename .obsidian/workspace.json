@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97c1f7de1570cf59",
+        "id": "983514efaeaff6f0",
         "type": "tabs",
         "children": [
           {
-            "id": "2d352c0311eef48d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "修論本体.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcd644df4ca0ff18",
+            "id": "18a004b7722a0b25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "d137f8c91ecb20d1",
+            "id": "ef9e8f8ff7d48a8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論1.2.md",
+                "file": "修論本体.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -48,25 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "983514efaeaff6f0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "be1518011803e2cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E1.1.8.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -95,10 +63,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "同階",
+                "query": "tag:#タスク",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "修論1.3.md",
+                "file": "present の箇所まとめ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "修論1.3.md"
+                "file": "present の箇所まとめ.md"
               }
             }
           },
@@ -167,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "修論1.3.md",
+                "file": "present の箇所まとめ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,17 +154,55 @@
     "width": 284.5,
     "collapsed": true
   },
-  "active": "dcd644df4ca0ff18",
+  "floating": {
+    "id": "63bce79be0dfd7cc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8e8ae625118ca730",
+        "type": "window",
+        "children": [
+          {
+            "id": "c9ea3cd4b9858684",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2127f7873b3b01d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "present の箇所まとめ.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 36,
+        "y": 19,
+        "width": 600,
+        "height": 860,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2127f7873b3b01d0",
   "lastOpenFiles": [
-    "修論本体.md",
+    "E3.5.2.md",
+    "present の箇所まとめ.md",
     "修論1.3.md",
-    "現前領域.md",
-    "自然法をただ知っているだけではだめだというのは、一体なんの話だったっけ.md",
-    "修論1.2.md",
-    "E1.1.8.md",
-    "米19.md",
-    "米18.md",
-    "意識の同階知覚説.md",
-    "1.1 イントロダクション.md"
+    "米20.md",
+    "actual と present の違い.md",
+    "修論本体.md",
+    "E2.10.2.md",
+    "2.10 保持について.md",
+    "E2.9.2.md",
+    "修論1.2.md"
   ]
 }
