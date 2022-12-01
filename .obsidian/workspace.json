@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論1.2.md",
+                "file": "修論本体.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcd644df4ca0ff18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "修論1.3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,24 +37,29 @@
             "id": "d137f8c91ecb20d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "修論1.2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "707b291214cc6037",
+        "id": "983514efaeaff6f0",
         "type": "tabs",
         "children": [
           {
-            "id": "1cad83ae3f4475f0",
+            "id": "be1518011803e2cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "意識の同階知覚説.md",
+                "file": "E1.1.8.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "修論1.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "修論1.3.md"
+              }
             }
           },
           {
@@ -146,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "修論1.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,17 +186,17 @@
     "width": 284.5,
     "collapsed": true
   },
-  "active": "d137f8c91ecb20d1",
+  "active": "dcd644df4ca0ff18",
   "lastOpenFiles": [
+    "修論本体.md",
+    "修論1.3.md",
+    "現前領域.md",
+    "自然法をただ知っているだけではだめだというのは、一体なんの話だったっけ.md",
     "修論1.2.md",
-    "無題のファイル 7.md",
+    "E1.1.8.md",
+    "米19.md",
+    "米18.md",
     "意識の同階知覚説.md",
-    "同階知覚説.md",
-    "Thiel 2011.md",
-    "E2.1.8.md",
-    "意識は作用ではない論.md",
-    "ブレンターノ.md",
-    "Coventry and Kriegel 2008.md",
-    "E2.21.5.md"
+    "1.1 イントロダクション.md"
   ]
 }
