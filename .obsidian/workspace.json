@@ -13,33 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論本体.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5da04bce7a559e47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "修論1.3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98bb4bc3a0c3491f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "修論2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "60b5bfca3417839d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a8ec824e6cff6b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E4.2.1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9933ac3eec9acd44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E2.1.25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef5def0253557b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E2.11.1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -48,25 +67,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "6a9d06ee4b8bd12e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "34003a5823f04d8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E1.1.2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E1.1.2.md",
+                "file": "E2.11.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E1.1.2.md"
+                "file": "E2.11.1.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E1.1.2.md",
+                "file": "E2.11.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,19 +183,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
-  "active": "34003a5823f04d8f",
+  "active": "ef5def0253557b94",
   "lastOpenFiles": [
+    "discerning.md",
+    "E2.11.1.md",
+    "descerning.md",
+    "E2.1.25.md",
+    "E4.2.1.md",
     "修論2.md",
-    "E1.1.2.md",
-    "米24.md",
-    "一ノ瀬 1997.md",
-    "修論本体.md",
-    "自然法をただ知っているだけではだめだというのは、一体なんの話だったっけ.md",
-    "修論1.3.md",
-    "E2.14.4.md",
-    "モデルの確定.md",
-    "修論1.2.md"
+    "E2.21.8.md",
+    "E2.21.2.md",
+    "E2.21.24.md",
+    "検討.md"
   ]
 }
