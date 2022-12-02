@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18a004b7722a0b25",
+            "id": "f5751f7bcafd5664",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,20 +21,32 @@
             }
           },
           {
-            "id": "ef9e8f8ff7d48a8a",
+            "id": "c94086bac7217927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論本体.md",
+                "file": "E2.27.9.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c898e744d8b3fd85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "present の箇所まとめ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,10 +75,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#タスク",
+                "query": "present",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "present の箇所まとめ.md",
+                "file": "修論1.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "present の箇所まとめ.md"
+                "file": "修論1.3.md"
               }
             }
           },
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "present の箇所まとめ.md",
+                "file": "修論1.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +171,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "8e8ae625118ca730",
+        "id": "4d62a50f8aca8079",
         "type": "window",
         "children": [
           {
-            "id": "c9ea3cd4b9858684",
+            "id": "465cb64fe30dd825",
             "type": "tabs",
             "children": [
               {
-                "id": "2127f7873b3b01d0",
+                "id": "5bdbfebe76053ab9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -183,26 +195,26 @@
           }
         ],
         "direction": "vertical",
-        "x": 36,
-        "y": 19,
+        "x": 0,
+        "y": 3,
         "width": 600,
-        "height": 860,
-        "maximize": false,
+        "height": 897,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "2127f7873b3b01d0",
+  "active": "f5751f7bcafd5664",
   "lastOpenFiles": [
-    "E3.5.2.md",
-    "present の箇所まとめ.md",
+    "E2.27.9.md",
     "修論1.3.md",
-    "米20.md",
-    "actual と present の違い.md",
+    "present の箇所まとめ.md",
+    "E2.27.10.md",
     "修論本体.md",
-    "E2.10.2.md",
-    "2.10 保持について.md",
-    "E2.9.2.md",
-    "修論1.2.md"
+    "E2.29.8.md",
+    "E2.29.2.md",
+    "E2.27.26.md",
+    "E2.27.24.md",
+    "E2.27.13.md"
   ]
 }
