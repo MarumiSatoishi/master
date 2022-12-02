@@ -13,7 +13,7 @@
  > Ignorance or Doubt of the Law; hopes to escape the Knowledge or Power of the Law-maker, or the like, may make Men give way to a ***present*** Appetite: But let any one see the Fault, and the Rod by it
 
 [[E2.9.4]]:
- > So that where-ever there is Sense, or Perception, there some Idea is actually produced, and ***present*** in the Understanding.
+ > So that where-ever there is Sense, or Perception, there some *Idea* is actually produced, and ***present*** in the Understanding.
 
 [[E2.10.8]]:153
  > And we in our Thoughts, Reasonings, and Knowledge, could not proceed beyond ***present*** Objects, were it not for the assistance of our Memories, wherein there may be two defects.

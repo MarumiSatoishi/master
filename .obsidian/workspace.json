@@ -8,7 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5751f7bcafd5664",
+            "id": "0f02aeb49a088a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "修論本体.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5da04bce7a559e47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,25 +34,32 @@
             }
           },
           {
-            "id": "c94086bac7217927",
+            "id": "98bb4bc3a0c3491f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E2.27.9.md",
+                "file": "修論2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "6a9d06ee4b8bd12e",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c898e744d8b3fd85",
+            "id": "34003a5823f04d8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "present の箇所まとめ.md",
+                "file": "E1.1.2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "修論1.3.md",
+                "file": "E1.1.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "修論1.3.md"
+                "file": "E1.1.2.md"
               }
             }
           },
@@ -147,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "修論1.3.md",
+                "file": "E1.1.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,58 +183,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
-  "floating": {
-    "id": "63bce79be0dfd7cc",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4d62a50f8aca8079",
-        "type": "window",
-        "children": [
-          {
-            "id": "465cb64fe30dd825",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5bdbfebe76053ab9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "present の箇所まとめ.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 3,
-        "width": 600,
-        "height": 897,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f5751f7bcafd5664",
+  "active": "34003a5823f04d8f",
   "lastOpenFiles": [
-    "E2.27.9.md",
-    "修論1.3.md",
-    "present の箇所まとめ.md",
-    "E2.27.10.md",
+    "修論2.md",
+    "E1.1.2.md",
+    "米24.md",
+    "一ノ瀬 1997.md",
     "修論本体.md",
-    "E2.29.8.md",
-    "E2.29.2.md",
-    "E2.27.26.md",
-    "E2.27.24.md",
-    "E2.27.13.md"
+    "自然法をただ知っているだけではだめだというのは、一体なんの話だったっけ.md",
+    "修論1.3.md",
+    "E2.14.4.md",
+    "モデルの確定.md",
+    "修論1.2.md"
   ]
 }
