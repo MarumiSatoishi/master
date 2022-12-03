@@ -4,28 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "983514efaeaff6f0",
+        "id": "60b5bfca3417839d",
         "type": "tabs",
+        "dimension": 54.94269340974212,
         "children": [
           {
-            "id": "0f02aeb49a088a10",
+            "id": "82f34ddfc37dd588",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論2.md",
+                "file": "E2.1.3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "60b5bfca3417839d",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "6a8ec824e6cff6b5",
             "type": "leaf",
@@ -45,20 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E2.1.25.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef5def0253557b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E2.11.1.md",
+                "file": "修論2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,6 +49,26 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "d1b9c46df0917e0b",
+        "type": "tabs",
+        "dimension": 45.05730659025788,
+        "children": [
+          {
+            "id": "c5c9536254978502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E2.2.2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E2.11.1.md",
+                "file": "修論2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E2.11.1.md"
+                "file": "修論2.md"
               }
             }
           },
@@ -167,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E2.11.1.md",
+                "file": "修論2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,17 +188,17 @@
     "width": 284.5,
     "collapsed": true
   },
-  "active": "ef5def0253557b94",
+  "active": "9933ac3eec9acd44",
   "lastOpenFiles": [
-    "discerning.md",
-    "E2.11.1.md",
-    "descerning.md",
-    "E2.1.25.md",
-    "E4.2.1.md",
+    "E2.2.2.md",
+    "E2.2.1.md",
     "修論2.md",
-    "E2.21.8.md",
-    "E2.21.2.md",
-    "E2.21.24.md",
-    "検討.md"
+    "E2.1.4.md",
+    "E2.1.2.md",
+    "E2.1.3.md",
+    "E2.13.3.md",
+    "Weinberg 2016.md",
+    "米30.md",
+    "E1.1.1.md"
   ]
 }
