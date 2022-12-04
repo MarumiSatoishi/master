@@ -6,7 +6,6 @@
       {
         "id": "60b5bfca3417839d",
         "type": "tabs",
-        "dimension": 74.42693409742121,
         "children": [
           {
             "id": "82f34ddfc37dd588",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "修論2.md",
+                "file": "修論3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,82 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ea852a0fdf3d456b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "修論3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "36c333ea5f20b07d",
-        "type": "tabs",
-        "dimension": 25.573065902578797,
-        "children": [
-          {
-            "id": "ce40490b1bb479e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E4.2.15.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d9d8af6fe6d419c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CU7.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57bfd5ef3240461e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GILBERT1901.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d50bb51a4cd60f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CU3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "修論3.md",
+                "file": "修論本体.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "修論3.md"
+                "file": "修論本体.md"
               }
             }
           },
@@ -209,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "修論3.md",
+                "file": "修論本体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,20 +151,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
-  "active": "ea852a0fdf3d456b",
+  "active": "81266b527d9cc19c",
   "lastOpenFiles": [
-    "修論本体.md",
     "修論3.md",
-    "修論2.md",
-    "米34.md",
-    "E4.2.7.md",
-    "E4.2.15.md",
-    "CU3.md",
-    "E2.20.3.md",
-    "GILBERT1901.md",
-    "CU7.md"
+    "E2.21.38.md",
+    "E2.31.39.md",
+    "米41.md",
+    "E2.21.39.md",
+    "E2.21.36.md",
+    "米40.md",
+    "E2.21.37.md",
+    "E2.20.6.md",
+    "present の箇所まとめ.md"
   ]
 }

@@ -50,8 +50,7 @@
  > ***present*** or absent is apt to produce in us, is what we call Hatred.
 
 [[E2.20.6]]
- > he uneasiness a Man finds in himself upon the absence of  
- > any thing, whose ***present*** enjoyment carries the Idea of Delight with it, is that we call Desire, which is greater or less, as that uneasiness is more or less vehement.
+ > he uneasiness a Man finds in himself upon the absence of any thing, whose ***present*** enjoyment carries the Idea of Delight with it, is that we call Desire, which is greater or less, as that uneasiness is more or less vehement.
 
 [[E2.20.7]]
  > Joy is a delight of the Mind, from the consideration of the  
@@ -391,13 +390,11 @@ due order and proportion, then the Confusion ceases, and the Eye presently sees,
 [[E4.16.2]]:
  > Without this, the greatest part of Men must be either very Scepticks, or change every Moment, and yield themselves up to whoever, having lately studied the Question, offers them Arguments; which for want of Memory, they are not able ***present***ly to answer.
 
-E4.16.4?
- > Since therefore it is unavoidable to the greatest part of Men,  
- > if not all, to have several Opinions, without certain and indubitable Proofs of their Truths; and it carries too great an imputation of ignorance, lightness, or folly, for Men to quit and renounce their former Tenets, ***present***ly upon the offer of an Argument, which they cannot immediately answer, and shew the insufficiency of
-
 
 [[E4.21.4]]
- > Thirdly, The Third Branch may be called σημειωτική‎, or the Doctrine of Signs, the most usual whereof being Words, it is aptly enough termed also λογική‎, Logick; the business whereof, is to consider the Nature of Signs, the Mind makes use of for the understanding of Things, or conveying its Knowledge to others. For since the Things, the Mind contemplates, are none of them, besides it self, ***present*** to the Understanding, 'tis necessary that something else, as a Sign or Representation of the thing it considers, should be ***present*** to it
+ > Thirdly, The Third Branch may be called σημειωτική‎, or the Doctrine of Signs, the most usual whereof being Words, it is aptly enough termed also λογική‎, Logick; the business whereof, is to consider the Nature of Signs, the Mind makes use of for the understanding of Things, or conveying its Knowledge to others. 
+ > 
+ > For since the Things, the Mind contemplates, are none of them, besides it self, ***present*** to the Understanding, 'tis necessary that something else, as a Sign or Representation of the thing it considers, should be ***present*** to it
 
 
 
